@@ -18,6 +18,6 @@ f(n) = n[ rhyme_length - 1 ]            # num_items >= rhyme_length
 ```
 
 ## Script
-In the script below, I've considered a few different versions of the classic "Eeny, Meeny, Miny, Moe" rhyme,
+In the script, I've considered a few different versions of the classic "Eeny, Meeny, Miny, Moe" rhyme,
 but the `pick` method could be used with any rhyme. Have fun, although I can't imagine what this could possibly
 be useful for.
